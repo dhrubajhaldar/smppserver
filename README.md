@@ -47,3 +47,5 @@ Manages incoming queues and parts processing before transmission.
 4. Delivery Receipts Engine [mysql-db-dlr]
 
 Dedicated persistence loop layer for managing processing updates, asynchronous state logs, and vendor receipts back to the client application.
+
+contact : dhrubajhaldar@gmail.com
